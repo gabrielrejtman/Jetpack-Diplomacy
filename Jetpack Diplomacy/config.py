@@ -10,7 +10,7 @@ looping = True
 gravity = 0.3
 
 # font
-score_font = pygame.font.Font('font/PixeloidMono.ttf', 100)
+score_font = pygame.font.Font('assets/PixeloidMono.ttf', 100)
 
 # Screen
 score_height = 50
